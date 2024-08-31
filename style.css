@@ -533,15 +533,18 @@ img {
 }
 
 .skills__css {
-    width: 80%;
+    width: 85%;
 }
 
 .skills__js {
-    width: 75%;
+    width: 80%;
 }
 
 .skills__react {
-    width: 65%;
+    width: 90%;
+}
+.skills__nextjs {
+    width: 60%;
 }
 
 
