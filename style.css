@@ -767,6 +767,8 @@ img {
     width: 265px;
     border-radius: .5rem;
     justify-self: center;
+    border: 2px solid var(--first-color);
+    padding: 2px;
 }
 
 .portfolio__title {
